@@ -1,0 +1,16 @@
+h5py
+numpy
+python3
+sklearn
+transformers
+torch
+torchvision
+PIL
+pandas
+matplotlib
+re
+scipy
+tensorflow
+joblib
+pickle
+pymongo
