@@ -1,0 +1,15 @@
+{
+    "algorithm": "KMeans",
+    "parameters": {
+        "n_clusters": 2,
+        "init": "k-means++",
+        "n_init": 10,
+        "random_state": 42
+    },
+    "timestamp": "2025-05-13 22:07:22",
+    "components": [
+        "tfidf_vectorizer",
+        "scaler",
+        "pca"
+    ]
+}
