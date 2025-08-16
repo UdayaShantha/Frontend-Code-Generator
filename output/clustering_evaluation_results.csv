@@ -1,0 +1,24 @@
+algorithm,parameters,silhouette_score,n_clusters
+KMeans,"{'n_clusters': 2, 'init': 'k-means++', 'n_init': 10, 'random_state': 42}",0.44503323178296794,2
+KMeans,"{'n_clusters': 2, 'init': 'random', 'n_init': 10, 'random_state': 42}",0.4258386392886747,2
+KMeans,"{'n_clusters': 3, 'init': 'k-means++', 'n_init': 10, 'random_state': 42}",0.10127407911002373,3
+KMeans,"{'n_clusters': 3, 'init': 'random', 'n_init': 10, 'random_state': 42}",0.11509101178795475,3
+KMeans,"{'n_clusters': 4, 'init': 'k-means++', 'n_init': 10, 'random_state': 42}",0.13107518438337806,4
+KMeans,"{'n_clusters': 4, 'init': 'random', 'n_init': 10, 'random_state': 42}",0.13171244722506617,4
+KMeans,"{'n_clusters': 5, 'init': 'k-means++', 'n_init': 10, 'random_state': 42}",0.15651313401953723,5
+KMeans,"{'n_clusters': 5, 'init': 'random', 'n_init': 10, 'random_state': 42}",0.15581161970390828,5
+KMeans,"{'n_clusters': 6, 'init': 'k-means++', 'n_init': 10, 'random_state': 42}",0.16412808255579475,6
+KMeans,"{'n_clusters': 6, 'init': 'random', 'n_init': 10, 'random_state': 42}",0.17213176983871073,6
+KMeans,"{'n_clusters': 7, 'init': 'k-means++', 'n_init': 10, 'random_state': 42}",0.17897078379626424,7
+KMeans,"{'n_clusters': 7, 'init': 'random', 'n_init': 10, 'random_state': 42}",0.18507912120497713,7
+KMeans,"{'n_clusters': 8, 'init': 'k-means++', 'n_init': 10, 'random_state': 42}",0.16972128098258044,8
+KMeans,"{'n_clusters': 8, 'init': 'random', 'n_init': 10, 'random_state': 42}",0.1728553009298929,8
+KMeans,"{'n_clusters': 10, 'init': 'k-means++', 'n_init': 10, 'random_state': 42}",0.15156534883886383,10
+KMeans,"{'n_clusters': 10, 'init': 'random', 'n_init': 10, 'random_state': 42}",0.1482327284348053,10
+AgglomerativeClustering,"{'n_clusters': 2, 'linkage': 'ward'}",0.3967351939682402,2
+AgglomerativeClustering,"{'n_clusters': 3, 'linkage': 'ward'}",0.1060886877191854,3
+AgglomerativeClustering,"{'n_clusters': 4, 'linkage': 'ward'}",0.12331611038953634,4
+AgglomerativeClustering,"{'n_clusters': 5, 'linkage': 'ward'}",0.13570301542922045,5
+AgglomerativeClustering,"{'n_clusters': 6, 'linkage': 'ward'}",0.14051516904359,6
+AgglomerativeClustering,"{'n_clusters': 7, 'linkage': 'ward'}",0.1466102431270902,7
+AgglomerativeClustering,"{'n_clusters': 8, 'linkage': 'ward'}",0.1507980140828084,8
